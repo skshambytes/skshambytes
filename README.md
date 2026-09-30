@@ -50,9 +50,10 @@ I'm a **Data Analyst** who enjoys turning messy, raw data into dashboards, repor
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=skshambytes&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skshambytes&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=skshambytes&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=skshambytes&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=skshambytes&theme=radical&hide_border=true" />
